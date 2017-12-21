@@ -1,2 +1,5 @@
 # hello-world
-1st repository
+
+Hi peeps!
+
+Just a diddy about myself.
